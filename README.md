@@ -1,4 +1,4 @@
-# **Deep Learning Project**
+# **Deep Learning**
 
 ## **Description**
 *This repository contains implementations and explanations of various deep learning architectures. The aim is to provide insights into the different types of neural networks, their applications, and how to effectively implement them for various tasks.*
